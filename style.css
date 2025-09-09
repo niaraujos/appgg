@@ -4,6 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   background: #fdf6e3;
+  overflow: hidden;
 }
 canvas {
   border: 2px solid #333;
@@ -11,3 +12,4 @@ canvas {
   border-radius: 10px;
   text-align: left;
 }
+
